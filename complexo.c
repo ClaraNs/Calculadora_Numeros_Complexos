@@ -81,7 +81,7 @@ complexo * divideComplexo (complexo *nc1, complexo *nc2){
 
 }
 
-//ARRUMAR QUANDO A PARTE IMAGINÁRIA FOR NEGATIVA
+//Função que imprime na tela um número complexo
 void imprimeComplexo ( complexo *nc){
 
   if( nc->b > 0)
